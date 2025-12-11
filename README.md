@@ -1,7 +1,7 @@
 # Palette-Maker-Android_UI
 Smart color palette generator with export compatibility for drawing applications on Android
 
-## What I learned
+## What I Learned
 
 * Collaborating with a team
 * Android Studio using Java
